@@ -14,7 +14,6 @@
  * 参考まで: http://php.net/manual/ja/function.include.php
  */
 require_once '../functions.php';
-
 /**
  * IDを取得する
  */
